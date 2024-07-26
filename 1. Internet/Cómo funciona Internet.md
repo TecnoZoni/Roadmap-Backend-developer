@@ -1,0 +1,75 @@
+## ¿Cómo funciona Internet?
+
+#### Introducción
+
+Internet es una red global de computadoras interconectadas que permite a los usuarios compartir información y comunicarse entre sí de manera instantánea. Este vasto sistema interconectado de redes es complejo y multifacético, pero se puede descomponer en varios componentes clave para entender su funcionamiento.
+
+#### Historia y Evolución
+
+Internet se originó en la década de 1960 como ARPANET, un proyecto del Departamento de Defensa de los Estados Unidos para desarrollar una red de comunicaciones resistente. Con el tiempo, ARPANET se expandió y evolucionó, incorporando diversas tecnologías y protocolos que dieron lugar a lo que hoy conocemos como Internet.
+
+#### Componentes Clave
+
+1. **Infraestructura Física:**
+   - **Servidores y Centros de Datos:** Computadoras potentes que almacenan y distribuyen datos.
+   - **Cables de Fibra Óptica:** Transportan datos a gran velocidad a través de largas distancias.
+   - **Enrutadores y Switches:** Dispositivos que dirigen el tráfico de datos hacia sus destinos.
+
+2. **Proveedores de Servicios de Internet (ISP):**
+   - Los ISP son empresas que proporcionan acceso a Internet a los usuarios finales. Funcionan como intermediarios entre los usuarios y la infraestructura global de Internet.
+
+3. **Direcciones IP y DNS:**
+   - **Direcciones IP:** Cada dispositivo conectado a Internet tiene una dirección IP única que lo identifica, similar a una dirección postal.
+   - **Sistema de Nombres de Dominio (DNS):** Traduce nombres de dominio fáciles de recordar (como www.google.com) en direcciones IP.
+
+4. **Protocolos de Comunicación:**
+   - **TCP/IP (Transmission Control Protocol/Internet Protocol):** La columna vertebral de Internet, responsable de descomponer datos en paquetes, transmitirlos y asegurarse de que lleguen a su destino.
+   - **HTTP/HTTPS (Hypertext Transfer Protocol/Secure):** Protocolos utilizados para la transferencia de páginas web.
+
+5. **Navegadores Web y Aplicaciones:**
+   - **Navegadores Web:** Programas como Chrome, Firefox y Safari que permiten a los usuarios acceder y navegar por sitios web.
+   - **Aplicaciones:** Programas y servicios que utilizan Internet para funcionar, como correos electrónicos, redes sociales y servicios de streaming.
+
+#### Funcionamiento de la Comunicación en Internet
+
+1. **Solicitud del Usuario:**
+   - Cuando un usuario ingresa una URL en su navegador, este envía una solicitud a un servidor DNS para obtener la dirección IP correspondiente.
+
+2. **Resolución DNS:**
+   - El servidor DNS traduce el nombre de dominio en una dirección IP y la devuelve al navegador.
+
+3. **Transmisión de Datos:**
+   - El navegador envía una solicitud HTTP/HTTPS al servidor web asociado con la dirección IP.
+
+4. **Respuesta del Servidor:**
+   - El servidor web procesa la solicitud y envía de vuelta los datos solicitados (como una página web) al navegador.
+
+5. **Renderización de la Página Web:**
+   - El navegador recibe los datos y los interpreta, mostrando la página web al usuario.
+
+#### Seguridad en Internet
+
+- **Cifrado:** HTTPS utiliza cifrado para proteger la transmisión de datos entre el navegador y el servidor.
+- **Firewalls y Antivirus:** Protegen los dispositivos y redes de accesos no autorizados y malware.
+- **Autenticación y Autorización:** Aseguran que solo usuarios legítimos tengan acceso a ciertos recursos.
+
+#### Internet de las Cosas (IoT)
+
+- **Dispositivos Conectados:** Desde teléfonos inteligentes hasta refrigeradores, muchos dispositivos ahora pueden conectarse a Internet, creando un ecosistema interconectado.
+
+#### Impacto Social y Económico
+
+- **Comunicación Global:** Permite la comunicación instantánea entre personas de todo el mundo.
+- **Acceso a Información:** Facilita el acceso a vastos recursos de información y conocimiento.
+- **Comercio Electrónico:** Ha transformado la forma en que se realizan negocios, permitiendo el comercio electrónico y la globalización de mercados.
+
+**Ejemplo para Simplificar:**
+Imagina que Internet es como un sistema postal global. Los servidores son las oficinas postales que almacenan y envían paquetes (datos). Los cables de fibra óptica son las carreteras y rutas aéreas que transportan esos paquetes. Las direcciones IP son como las direcciones de casas y negocios, y el DNS es el servicio de directorio que traduce nombres fáciles de recordar (nombres de dominio) en direcciones físicas. Los protocolos como TCP/IP aseguran que los paquetes lleguen a su destino correctamente, y los navegadores web son los carteros que entregan los paquetes directamente a tu puerta (tu pantalla).
+
+Este sistema permite que cuando ingresas una dirección web en tu navegador, el "cartero" (navegador) sepa exactamente a dónde ir, encuentre el "paquete" (datos) correcto y te lo entregue de manera rápida y segura, permitiéndote acceder a la información o servicio que deseas.
+
+### Conclusión
+
+En resumen, Internet funciona gracias a una compleja red de infraestructura física, proveedores de servicios, direcciones IP y sistemas DNS, protocolos de comunicación, y aplicaciones. A través de estos componentes, los datos pueden transmitirse de un punto a otro de manera eficiente y segura.
+
+![GIF ilustrativo de como funciona el internet](https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.jpg)
