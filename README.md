@@ -6,7 +6,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.ejemplo.c
 ![Gif de un Hello world!](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 
 ## Contenido
-- **Dia 1: Internet.**
+- **Tema 1: Internet.**
   - ¿Cómo funciona Internet?
   - ¿Qué es HTTP?
   - ¿Qué es un nombre de dominio?
