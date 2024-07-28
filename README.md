@@ -7,8 +7,10 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
 
 ## Contenido
 - **Tema 1: Internet.**
-  - [¿Cómo funciona Internet?](1.%20Internet/Cómo%20funciona%20Internet.md)
-  - ¿Qué es HTTP?
+  - [¿Cómo funciona Internet?](1.%20Internet/1.Cómo%20funciona%20Internet.md)
+  - [¿Qué es HTTP?](1.%20Internet/2.Qué%20es%20HTTP.md)
+  - [La diferencia entre HTTP y HTTPS](1.%20Internet/3.La%20diferencia%20entre%20HTTP%20y%20HTTPS.md)
+  - [Métodos HTTP (Usando Java)](1.%20Internet/4.Métodos%20HTTP%20(Usando%20Java).md)
   - ¿Qué es un nombre de dominio?
   - ¿Qué es el Hosting?
   - DNS y ¿cómo funciona?
