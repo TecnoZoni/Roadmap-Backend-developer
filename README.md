@@ -11,7 +11,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [¿Qué es HTTP?](1.%20Internet/2.Qué%20es%20HTTP.md)
   - [La diferencia entre HTTP y HTTPS](1.%20Internet/3.La%20diferencia%20entre%20HTTP%20y%20HTTPS.md)
   - [Métodos HTTP (Usando Java)](1.%20Internet/4.Métodos%20HTTP%20(Usando%20Java).md)
-  - ¿Qué es un nombre de dominio?
+  - [¿Qué es un nombre de dominio?](1.%20Internet/5.Qué%20es%20un%20nombre%20de%20dominio)
   - ¿Qué es el Hosting?
   - DNS y ¿cómo funciona?
   - Cómo funcionan los navegadores
