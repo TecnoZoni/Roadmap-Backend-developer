@@ -42,4 +42,5 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [ArrayList en Java](3.Java%20POO/22.ArrayList%20en%20Java.md)
   - [LinkedList en java](3.Java%20POO/23.LinkedList%20en%20java.md)
   - [Diferencias entre ArrayLists y LinkedLists](3.Java%20POO/24.Diferencias%20entre%20ArrayLists%20y%20LinkedLists.md)
-  - [25.Stacks en java](3.Java%20POO/25.Stacks%20en%20java.md)
+  - [Stacks en java](3.Java%20POO/25.Stacks%20en%20java.md)
+  - [Maps en java](3.Java%20POO/26.Maps%20en%20java.md)
