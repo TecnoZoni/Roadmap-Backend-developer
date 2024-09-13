@@ -44,3 +44,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Diferencias entre ArrayLists y LinkedLists](3.Java%20POO/24.Diferencias%20entre%20ArrayLists%20y%20LinkedLists.md)
   - [Stacks en java](3.Java%20POO/25.Stacks%20en%20java.md)
   - [Maps en java](3.Java%20POO/26.Maps%20en%20java.md)
+  - [Excepciones en Java](3.Java%20POO/27.Excepciones%20en%20Java.md)
