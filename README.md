@@ -45,3 +45,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Stacks en java](3.Java%20POO/25.Stacks%20en%20java.md)
   - [Maps en java](3.Java%20POO/26.Maps%20en%20java.md)
   - [Excepciones en Java](3.Java%20POO/27.Excepciones%20en%20Java.md)
+  - [Relaciones entre Clases en Java](3.Java%20POO/28.Relaciones%20entre%20Clases%20en%20Java.md)
