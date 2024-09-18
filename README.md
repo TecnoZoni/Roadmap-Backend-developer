@@ -47,3 +47,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Excepciones en Java](3.Java%20POO/27.Excepciones%20en%20Java.md)
   - [Relaciones entre Clases en Java](3.Java%20POO/28.Relaciones%20entre%20Clases%20en%20Java.md)
   - [Conversiones entre Tipos de Datos](3.Java%20POO/29.Conversiones%20entre%20Tipos%20de%20Datos.md)
+  - [ENUMS o enumeraciones en java](3.Java%20POO/30.ENUMS%20o%20enumeraciones%20en%20java.md)
