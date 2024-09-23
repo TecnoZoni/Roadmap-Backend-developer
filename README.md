@@ -50,3 +50,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [ENUMS o enumeraciones en java](3.Java%20POO/30.ENUMS%20o%20enumeraciones%20en%20java.md)
   - [Generics o génericos en java](3.Java%20POO/31.Generics%20o%20génericos%20en%20java.md)
   - [JPA Java Persistence API](3.Java%20POO/32.JPA%20(Java%20Persistence%20Api).md)
+  - [Annotations en JPA](3.Java%20POO/33.Annotations%20en%20JPA.md)
