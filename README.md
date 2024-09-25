@@ -53,3 +53,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Annotations en JPA](3.Java%20POO/33.Annotations%20en%20JPA.md)
   - [JPA Controllers](3.Java%20POO/34.JPA%20Controllers.md)
   - [CRUD en JPA CREATE](3.Java%20POO/35.CRUD%20en%20JPA%20CREATE.md)
+  - [CRUD en JPA Delete y Edit](3.Java%20POO/36.CRUD%20en%20JPA%20Delete%20y%20Edit.md)
