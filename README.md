@@ -56,3 +56,4 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [CRUD en JPA Delete y Edit](3.Java%20POO/36.CRUD%20en%20JPA%20Delete%20y%20Edit.md)
   - [CRUD con JPA Find y FindEntities](3.Java%20POO/37.CRUD%20con%20JPA%20Find%20y%20FindEntities.md)
   - [CRUD con JPA Relacion OneToOne](3.Java%20POO/38.CRUD%20con%20JPA%20Relacion%20OneToOne.md)
+  - [CRUD con JPA Relacion OneToMany](3.Java%20POO/39.CRUD%20con%20JPA%20Relacion%20OneToMany.md)
