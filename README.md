@@ -65,3 +65,6 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Spring Initializr](4.Spring%20Boot/43.Spring%20Initializr.md)
   - [Patrón MVC](4.Spring%20Boot/44.Patrón%20MVC.md)
   - [ApisRest](4.Spring%20Boot/45.ApisRest.md)
+
+- **Tema 5: Teoría**
+  - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
