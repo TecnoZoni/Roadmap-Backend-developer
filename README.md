@@ -69,6 +69,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [@GetMapping y @PathVariable](4.Spring%20Boot/47.GetMapping%20y%20PathVariable.md)
   - [@RequestParam](4.Spring%20Boot/48.@RequestParam%20.md)
   - [Que es JSON](4.Spring%20Boot/49.Que%20es%20JSON.md)
+  - [@PostMapping + @RequestBody](4.Spring%20Boot/50.@PostMapping%20+%20@RequestBody.md)
 
 - **Tema 5: Teoría**
   - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
