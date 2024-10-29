@@ -71,6 +71,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Que es JSON](4.Spring%20Boot/49.Que%20es%20JSON.md)
   - [@PostMapping + @RequestBody](4.Spring%20Boot/50.@PostMapping%20+%20@RequestBody.md)
   - [@ResponseBody + ResponseEntity](4.Spring%20Boot/51.@ResponseBody%20+%20ResponseEntity.md)
+  - [Patrón DTO (Data Transfer Object)](4.Spring%20Boot/52.Patrón%20DTO%20(Data%20Transfer%20Object).md)
 
 - **Tema 5: Teoría**
   - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
