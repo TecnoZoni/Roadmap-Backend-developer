@@ -74,6 +74,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Patrón DTO (Data Transfer Object)](4.Spring%20Boot/52.Patrón%20DTO%20(Data%20Transfer%20Object).md)
   - [Arquitectura multicapa](4.Spring%20Boot/53.Arquitectura%20multicapa.md)
   - [@Repository y @Service](4.Spring%20Boot/54.@Repository%20y%20@Service.md)
+  - [Inversión de Control ](4.Spring%20Boot/55.Inversión%20de%20Control%20.md)
 
 - **Tema 5: Teoría**
   - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
