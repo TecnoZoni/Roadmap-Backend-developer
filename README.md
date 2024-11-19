@@ -77,6 +77,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [Inversión de Control](4.Spring%20Boot/55.Inversión%20de%20Control%20.md)
   - [@Autowired](4.Spring%20Boot/56.@Autowired.md)
   - [@Data](4.Spring%20Boot/57.@Data.md)
+  - [Hibernate](4.Spring%20Boot/58.Hibernate.md)
 
 - **Tema 5: Teoría**
   - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
