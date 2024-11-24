@@ -78,6 +78,7 @@ La idea surge gracias al [#Challenge-gentleman-diferencia](https://www.youtube.c
   - [@Autowired](4.Spring%20Boot/56.@Autowired.md)
   - [@Data](4.Spring%20Boot/57.@Data.md)
   - [Hibernate](4.Spring%20Boot/58.Hibernate.md)
+  - [Relaciones @OneToOne, @OneToMany y @ManyToMany](4.Spring%20Boot/59.Relaciones%20@OneToOne,%20@OneToMany%20y%20@ManyToMany.md)
 
 - **Tema 5: Teoría**
   - [Patrones vs Arquitecturas ](5.Teoría/Patrones%20vs%20Arquitecturas%20.md)
